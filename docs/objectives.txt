@@ -1,0 +1,17 @@
+OBJECTIVES
+
+1. To develop a Python-based academic performance tracking application.
+
+2. To collect student and subject information.
+
+3. To calculate subject-wise academic performance.
+
+4. To automatically assign grades based on marks.
+
+5. To record and check student attendance.
+
+6. To generate a simple academic performance report.
+
+7. To use basic Python concepts such as functions, lists, dictionaries, loops and conditional statements.
+
+8. To extend the application in future modules with GPA, CGPA and graphical visualization.
