@@ -1,0 +1,13 @@
+ALGORITHM
+1. Start the program.
+2. Enter the student's name and roll number.
+3. Enter the number of subjects.
+4. For each subject, enter the subject name, marks and attendance percentage.
+5. Validate marks and attendance so that their values remain between 0 and 100.
+6. Store the subject information using a list and dictionaries.
+7. Calculate the grade using predefined percentage ranges.
+8. Check the attendance status using the 75% attendance condition.
+9. Calculate the overall percentage of the student.
+10. Display subject-wise marks, grades and attendance.
+11. Display the overall percentage and grade.
+12. Stop the program.
